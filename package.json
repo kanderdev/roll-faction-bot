@@ -1,0 +1,31 @@
+{
+  "name": "rollfactionbot",
+  "version": "1.0.0",
+  "description": "Rolls a R2 faction",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "kander",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "discord.js-commando": "github:discordjs/Commando",
+    "enmap": "^5.2.9",
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.2.2"
+  }
+}
