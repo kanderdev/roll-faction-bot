@@ -24,7 +24,7 @@
     "discord.js": "^12.2.0",
     "discord.js-commando": "github:discordjs/Commando",
     "enmap": "^5.2.9",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "moment": "^2.26.0",
     "moment-duration-format": "^2.2.2"
   }
